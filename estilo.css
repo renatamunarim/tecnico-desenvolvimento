@@ -1,0 +1,38 @@
+footer{
+    background-color: rgb(255, 166, 0);
+    padding: 10px;
+    background-position: center;
+    text-align: center;
+}
+header{
+    background: linear-gradient( brown, orange);
+}
+#titulo{
+    font-size: 50px;
+    font-style: bold;
+    font-family: fantasy;
+    padding: 30px;
+    margin: 0px;
+}
+.menu-navegacao{
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+    padding: 0px 15px;
+    margin-bottom: 15px;
+    
+}
+nav{
+    padding-left: 15px;
+    padding-bottom: 15px;
+}
+h1{
+    font-size: 35px;
+    display: block;
+    margin-left: 149.846px;
+}
+img{
+    height: 400px;
+    display: block;
+    margin: auto;
+}
